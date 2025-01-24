@@ -49,7 +49,7 @@ Requires-Dist: PyJWT==2.10.1
 Requires-Dist: cryptography==44.0.0
 Requires-Dist: Pillow==11.0.0
 Requires-Dist: propcache==0.2.1
-Requires-Dist: pyOpenSSL==24.3.0
+Requires-Dist: pyOpenSSL==25.0.0
 Requires-Dist: orjson==3.10.12
 Requires-Dist: packaging>=23.1
 Requires-Dist: psutil-home-assistant==0.0.1
