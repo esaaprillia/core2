@@ -66,7 +66,7 @@ Requires-Dist: urllib3<2,>=1.26.5
 Requires-Dist: uv==0.5.8
 Requires-Dist: voluptuous==0.15.2
 Requires-Dist: voluptuous-serialize==2.6.0
-Requires-Dist: voluptuous-openapi==0.0.5
+Requires-Dist: voluptuous-openapi==0.0.6
 Requires-Dist: yarl==1.18.3
 Requires-Dist: webrtc-models==0.3.0
 
