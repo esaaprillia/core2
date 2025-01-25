@@ -128,4 +128,4 @@ rules:
   strict-typing:
     status: todo
     comment: |
-      Requirement 'paho-mqtt==1.6.1' appears untyped
+      Requirement 'paho-mqtt==2.1.0' appears untyped
